@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Cazuza
 
 💻 SysAdmin | DevOps | Infraestrutura | Automação  
-🚀 Fundador da **CloudInfra** — consultoria focada em automação, suporte e infraestrutura Linux  
+🚀 Fundador da **CloudInfra** — consultoria focada em automação, suporte e infraestrutura Linux Windows  
 📍 Porto Alegre - RS  
 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cazuza-a63959151)
 
